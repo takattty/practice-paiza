@@ -1,0 +1,4 @@
+3
+Tanaka 18
+Sato 50
+Suzuki 120
