@@ -33,6 +33,12 @@ new_input = "paiza" * input5
 puts new_input.gsub(/ap/, "a p")
 
 
+# step6
+input6 = gets
+input7 = gets
+puts input7.split(' ')
+
+
 # Final
 inputF = File.readlines("test-case__hash.txt")
 inputF.shift
